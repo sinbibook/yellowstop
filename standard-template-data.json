@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-05-04T06:36:18.038932253Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-05-04T06:48:16.696930452Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "f4bf9e94-e4c5-4fe0-a4ab-850e1eb80a3e",
     "homepageId": "a119a707-c213-4dee-b3d6-e1e26d459002"
@@ -1102,10 +1102,36 @@
                 "description": " "
               },
               "essence": {
-                "title": "",
-                "images": [ ],
+                "title": "옐로우스탑 펜션",
+                "images": [
+                  {
+                    "id": "c2aad3e9-1889-487b-9494-5ac3baf65af0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a119a707-c213-4dee-b3d6-e1e26d459002/index_essence/1777876771541-bk1yhtduom.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "12501076-07c3-4685-9ff5-6ee5cf23434f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a119a707-c213-4dee-b3d6-e1e26d459002/index_essence/1777876771543-ttxpnvq5tv.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "fe02c96d-58a8-4fe8-9026-028871684aa2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a119a707-c213-4dee-b3d6-e1e26d459002/index_essence/1777876771741-dspkwfm5po.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": "애견동반 펜션으로 \n반려견 운동장, 비품, 목욕실까지 완비되어\n반려견과 함께 자연 속에서 편안한 휴식과 \n특별한 추억을 만들고 \n양양의 바다를 즐길 수 있으며, \n이국적인 분위기와 아늑한 객실이 \n어우러진 감성 숙소 🐾"
               },
               "gallery": {
                 "title": "Preview",
