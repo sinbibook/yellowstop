@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.25.0",
-    "generatedAt": "2026-05-08T09:21:18.946285066Z",
+    "version": "1.26.0",
+    "generatedAt": "2026-05-08T09:38:38.327416522Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "f4bf9e94-e4c5-4fe0-a4ab-850e1eb80a3e",
     "homepageId": "a119a707-c213-4dee-b3d6-e1e26d459002"
@@ -877,7 +877,7 @@
       "id": "c6601dec-e7d1-4357-847f-28322b33de7e",
       "name": "비틀즈(애견동반, 개별테라스)",
       "description": "",
-      "roomInfo": "분리형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바비큐\n",
+      "roomInfo": "거실1+침대룸(퀸침대2)+주방1+화장실2+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~성인 1인 20,000원\n- 추가침구 1채당 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 76.03,
