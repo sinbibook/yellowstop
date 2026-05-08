@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-05-04T07:44:25.940551287Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-05-08T03:48:05.527072111Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "f4bf9e94-e4c5-4fe0-a4ab-850e1eb80a3e",
     "homepageId": "a119a707-c213-4dee-b3d6-e1e26d459002"
@@ -1025,17 +1025,9 @@
                     "blockId": null
                   },
                   {
-                    "id": "0e48e383-2a14-42d0-8e46-e830b727a8c4",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a119a707-c213-4dee-b3d6-e1e26d459002/index_hero/1777874080618-ngnzq2f0fv.jpg",
-                    "sortOrder": 2,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
                     "id": "da953300-3f48-47ba-8597-62516a8df48b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a119a707-c213-4dee-b3d6-e1e26d459002/index_hero/1777874080555-slw0igqsxg.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1043,15 +1035,7 @@
                   {
                     "id": "fc5d8e1a-621b-4388-8064-5805167747a4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a119a707-c213-4dee-b3d6-e1e26d459002/index_hero/1777874080721-bpivg1ug1s.jpg",
-                    "sortOrder": 4,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "0e7fb5d4-a60b-4673-b509-756c9efec13d",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a119a707-c213-4dee-b3d6-e1e26d459002/index_hero/1777874080654-9myyhjihta.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1059,7 +1043,7 @@
                   {
                     "id": "af5fbf7a-b37e-4c00-8d5a-6ac5ca3a8e0b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a119a707-c213-4dee-b3d6-e1e26d459002/index_hero/1777874080521-smjjd4tlae.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1067,15 +1051,7 @@
                   {
                     "id": "18ac2b14-b91a-4aca-bfea-4e6b63f541dc",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a119a707-c213-4dee-b3d6-e1e26d459002/index_hero/1777874080320-s7fxa6czih.jpg",
-                    "sortOrder": 7,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "9a1f2cd7-e4f9-4658-b182-5c9426f5ac04",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a119a707-c213-4dee-b3d6-e1e26d459002/index_hero/1777874080626-h8yswooa99.jpg",
-                    "sortOrder": 8,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1137,17 +1113,9 @@
                 "title": "Preview",
                 "images": [
                   {
-                    "id": "2c2ca45b-028c-46e1-9c58-b9e102fb81ec",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a119a707-c213-4dee-b3d6-e1e26d459002/index_gallery/1777875721207-700bkcb6q4.jpg",
-                    "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
                     "id": "fef2bc4c-f592-41ac-b0a8-618d162ad08d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a119a707-c213-4dee-b3d6-e1e26d459002/index_gallery/1777875721004-zizk9zncyq.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1155,15 +1123,7 @@
                   {
                     "id": "5456b668-c921-438d-971d-dcbf604a7bdf",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a119a707-c213-4dee-b3d6-e1e26d459002/index_gallery/1777875721106-469psdejff.jpg",
-                    "sortOrder": 2,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "5e798902-ed84-4239-b03b-ee80551a7a87",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a119a707-c213-4dee-b3d6-e1e26d459002/index_gallery/1777875721165-k1kutiha8k.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1171,7 +1131,7 @@
                   {
                     "id": "3dbf99a0-d370-42a2-ade9-754d070389fb",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a119a707-c213-4dee-b3d6-e1e26d459002/index_gallery/1777875721008-2jbovoxvyz.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
