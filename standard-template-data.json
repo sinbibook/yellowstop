@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-05-08T09:08:16.436496894Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-05-08T09:16:14.390168890Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "f4bf9e94-e4c5-4fe0-a4ab-850e1eb80a3e",
     "homepageId": "a119a707-c213-4dee-b3d6-e1e26d459002"
@@ -93,8 +93,8 @@
             "blockId": null
           },
           {
-            "id": "632039dd-bdb8-4fd2-a238-f1f0addfae06",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/49ede3a5-7955-46ec-92fc-2e3955574420/main/1778231207183-lvggnou4fx.png",
+            "id": "fb24f47c-1abd-4244-ba9b-44fc1f32c294",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/49ede3a5-7955-46ec-92fc-2e3955574420/main/1778231690195-0bn24xp3oh.png",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
@@ -398,6 +398,10 @@
     ],
     "refundPolicies": [
       {
+        "refundProcessingDays": 0,
+        "refundRate": 0
+      },
+      {
         "refundProcessingDays": 9,
         "refundRate": 90
       },
@@ -432,10 +436,6 @@
       {
         "refundProcessingDays": 1,
         "refundRate": 10
-      },
-      {
-        "refundProcessingDays": 0,
-        "refundRate": 0
       }
     ],
     "refundSettings": {
