@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-05-08T09:00:30.089971035Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-05-08T09:07:48.233174805Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "f4bf9e94-e4c5-4fe0-a4ab-850e1eb80a3e",
     "homepageId": "a119a707-c213-4dee-b3d6-e1e26d459002"
@@ -72,7 +72,7 @@
       {
         "id": "49ede3a5-7955-46ec-92fc-2e3955574420",
         "name": "미니 카페",
-        "description": "숙박객에게 무료제빙기, 무료커피 제공해드립니다!\n애견동반 숙박객에게 무료로 제공해드리는 애견 간식, 비품이 준비되어 있습니다.\n애견유모차도 무료로 대여해드립니다.",
+        "description": "숙박객에게 무료제빙기, 무료커피 제공해드립니다!\n애견동반 숙박객을 위한 애견 간식, 비품이 준비되어 있습니다.\n애견유모차도 무료로 대여해드립니다.",
         "usageGuide": "- 무료 제빙기 제공\n- 무료 커피 서비스 제공\n- 애견동반 고객 대상 무료 애견 간식 제공\n- 반려견 비품 무료 제공\n- 애견유모차 무료 대여 서비스 제공",
         "displayOrder": 6,
         "images": [
@@ -85,9 +85,25 @@
             "blockId": null
           },
           {
+            "id": "888ec0fe-378b-45c0-b04e-f67ea678a32b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/49ede3a5-7955-46ec-92fc-2e3955574420/main/1778231207156-jp5ze0dnro.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "632039dd-bdb8-4fd2-a238-f1f0addfae06",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/49ede3a5-7955-46ec-92fc-2e3955574420/main/1778231207183-lvggnou4fx.png",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "b320358e-a7e9-406d-97e9-f2c3fbb32510",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/49ede3a5-7955-46ec-92fc-2e3955574420/main/1778221842515-vgzbzzzvit.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -95,7 +111,7 @@
           {
             "id": "6cd74ee5-d8dc-4d16-b61c-e995e93f8703",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/49ede3a5-7955-46ec-92fc-2e3955574420/main/1778221842572-qgdniqa0p5.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -103,7 +119,7 @@
           {
             "id": "1749362e-8886-44fa-92e6-31134f4a3a09",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/49ede3a5-7955-46ec-92fc-2e3955574420/main/1778221842521-hprl0kw8c6.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -111,7 +127,7 @@
           {
             "id": "0914faf4-b11b-4846-accd-a1ebf51d35b5",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/49ede3a5-7955-46ec-92fc-2e3955574420/main/1778221842508-fl969nrptv.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -119,7 +135,7 @@
           {
             "id": "4d6275df-5a62-470d-8d3f-9c69304e86aa",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/49ede3a5-7955-46ec-92fc-2e3955574420/main/1778221842562-x8djihqoz0.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
